@@ -1,1 +1,1 @@
-# algorithmization-and-programming
+# Algorithmization and programming
